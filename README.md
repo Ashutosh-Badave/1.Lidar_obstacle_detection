@@ -20,7 +20,7 @@ In this project I have extensively worked on PCL libraries in C++ and completed 
 ```bash
 $> sudo apt install libpcl-dev
 $> cd ~
-$> git clone https://github.com/udacity/SFND_Lidar_Obstacle_Detection.git
+$> git clone https://github.com/Ashutosh-Badave/1.Lidar_obstacle_detection.git
 $> cd SFND_Lidar_Obstacle_Detection
 $> mkdir build && cd build
 $> cmake ..
